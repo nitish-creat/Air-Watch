@@ -1,6 +1,6 @@
 # AirWatch: Real-Time Air Quality Analysis & AQI Prediction
 
-##1. Overview
+## 1. Overview
 
 AirWatch is an end-to-end data science project that analyzes air pollution and weather data across major Indian cities and predicts Air Quality Index (AQI) using machine learning techniques.
 
@@ -8,7 +8,7 @@ The project integrates real-time API data with historical datasets to provide in
 
 ---
 
-##2. Objectives
+## 2. Objectives
 
 * Analyze air quality trends across cities
 * Identify key factors affecting AQI
@@ -18,7 +18,7 @@ The project integrates real-time API data with historical datasets to provide in
 
 ---
 
-##3. Features
+## 3. Features
 
 * Real-time data collection using APIs
 * Data cleaning and preprocessing
@@ -29,7 +29,7 @@ The project integrates real-time API data with historical datasets to provide in
 
 ---
 
-##4. Project Structure
+## 4. Project Structure
 
 ```bash
 airwatch-aqi-prediction/
@@ -44,7 +44,7 @@ airwatch-aqi-prediction/
 
 ---
 
-##5. Tech Stack
+## 5. Tech Stack
 
 * Python
 * Pandas, NumPy
@@ -55,7 +55,7 @@ airwatch-aqi-prediction/
 
 ---
 
-##6. Results
+## 6. Results
 
 * Identified strong correlation between PM2.5 and AQI
 * Observed seasonal pollution patterns
@@ -63,7 +63,7 @@ airwatch-aqi-prediction/
 
 ---
 
-##7. How to Run
+## 7. How to Run
 
 1. Clone the repository
 2. Install dependencies:
