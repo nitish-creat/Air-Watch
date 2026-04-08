@@ -1,6 +1,0 @@
-city,temperature,humidity,wind_speed,pressure,aqi,pm25,pm10,timestamp
-Delhi,27.05,39,5.14,1011,151,151,101,11:03
-Mumbai,29.99,51,3.09,1014,77,77,51,11:03
-Bangalore,30.9,36,4.63,1012,94,94,60,11:03
-Kolkata,29.97,66,3.6,1011,81,81,49,11:03
-Tokyo,17.82,76,8.75,998,42,42,17,11:03
